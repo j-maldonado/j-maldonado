@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
 <h3 align="center">A passionate developer 👨‍💻 from Buenos Aires, Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j-maldonado&label=Profile%20views&color=0e75b6&style=flat" alt="j-maldonado" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-maldonado" alt="j-maldonado" /></a> </p>
-
 - 🌱 I’m currently learning **Poo and Django**
 
 - 👯 I’m looking to collaborate on **different projects that allow applying everything learned professionally**
 
 - 📫 How to reach me **Joanmarcelomaldonado@gmail.com**
 
-- 📄 Know about my experiences [on Linkedin: https://www.linkedin.com/in/joan-maldonado/](on Linkedin: https://www.linkedin.com/in/joan-maldonado/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q-D8TYKpv86_cSr8vhDpw3CdYj7bqHLx/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-maldonado&show_icons=true&locale=en&layout=compact" alt="j-maldonado" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-maldonado&show_icons=true&locale=en" alt="j-maldonado" /></p>
-
