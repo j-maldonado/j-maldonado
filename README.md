@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
 <h3 align="center">A passionate developer 👨‍💻 from Buenos Aires, Argentina</h3>
 
-- 🌱 I’m currently learning **Poo and Django**
+- 🌱 I’m currently learning **Oop and Django**
 
 - 👯 I’m looking to collaborate on **different projects that allow applying everything learned professionally**
 
 - 📫 How to reach me **Joanmarcelomaldonado@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q-D8TYKpv86_cSr8vhDpw3CdYj7bqHLx/view?usp=sharing]
+- 📄 Know about my experiences on my Resume here: [https://drive.google.com/file/d/1q-D8TYKpv86_cSr8vhDpw3CdYj7bqHLx/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
